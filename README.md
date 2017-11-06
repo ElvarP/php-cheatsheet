@@ -1,9 +1,9 @@
 # php-cheatsheet
 A php cheatsheet
+wip
+Just a list of every php function since the docs suck 
 
-Just a list of every php function since the docs suck
 
-<?php
 echo "Hello world";
 
 if ($action == "show_version") {
